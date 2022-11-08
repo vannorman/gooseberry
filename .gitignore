@@ -1,0 +1,16 @@
+*.sh
+*settings_local*
+*.swp
+*.swo
+*.pyc
+db.sqlite3
+venv/*
+static/bin/
+static/Builds/
+static/music
+venv-gooseberry/
+push.sh
+
+static/admin/
+static_root/
+
